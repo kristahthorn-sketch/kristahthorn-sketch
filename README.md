@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🐣 Learning to code, one hatch at a time
 
-<!--
-**kristahthorn-sketch/kristahthorn-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+New to development. Big on curiosity, chickens, and cats.
 
-Here are some ideas to get you started:
+I'm learning how to turn “what if?” into “it works!”
+Currently accepting beginner mistakes as part of the process.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐾 About me
+
+- 🌱 Building my skills, one small project at a time
+- 🐔 Giving a cluck about clean code
+- 🐈 Hoping my next bug is just a cat on the keyboard
+- 🤝 Happy to learn alongside other beginners
+
+### 💻 My current workflow
+
+```text
+get curious → try something → break it → learn → repeat
+```
+
+> Still learning Git. Mostly making **hen-commits**.
+
+Small steps. Lots of questions. Occasional meow.
